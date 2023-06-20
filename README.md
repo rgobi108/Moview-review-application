@@ -1,7 +1,4 @@
-# Moview-review-application
-
-
-#Backend code
+# Moview-review-application Backend
 The movie review backend code was developed using Java and Spring Boot, with MongoDB as the database. The application utilized various dependencies including Spring Boot Starter, Spring Boot Web, Spring Boot JPA MongoDB, and Lombok. 
 
 The Spring Boot Starter dependency provided a solid foundation for building the backend, offering essential configurations and auto-configuration capabilities. The Spring Boot Web dependency enabled the implementation of RESTful APIs and the handling of HTTP requests and responses. 
@@ -13,7 +10,7 @@ The Lombok dependency played a crucial role in reducing boilerplate code by auto
 By leveraging these dependencies, the movie review backend code was efficiently implemented, ensuring seamless communication with the frontend and smooth data management within the MongoDB database.
 
 
-# Frontend code
+# Moview-rweview-application Frontend
 
 
 The frontend of the application was developed using React.js and JavaScript, while the backend was built with Spring Boot. React.js, a popular JavaScript library, provided a robust and efficient framework for creating dynamic user interfaces. JavaScript, the core programming language of the web, was used to implement client-side functionalities and interact with the backend.
